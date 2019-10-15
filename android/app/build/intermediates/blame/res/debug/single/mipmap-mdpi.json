@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\home\\thunderat\\react-native-todo-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\home\\thunderat\\react-native-todo-app\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\home\\thunderat\\react_project\\todoapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\home\\thunderat\\react_project\\todoapp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\reactNative\\TodoApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\reactNative\\TodoApp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
